@@ -6,12 +6,9 @@ Doe een Performance Audit test op een bestaande website en rapporteer daar over.
 
 ## Titel Website
 
-Welke website heb je getest? Beschrijf de website die je hebt geanalyseerd en de datum dat je hebt getest. Voeg de url en een screenshot van de website toe.  
+![image](https://github.com/MokhtarAkle/performance-matters-performance-audit/assets/45001009/9f7cb028-7c00-4ae4-8c6f-854cf0f1aef6)
 
-Toon een screenshot van de performance test.
-
-Schrijf een samenvatting van de testbevindingen en verwijs naar je Wiki voor een uitgebreide rapportage.
-
+Zie wiki voor resultaten.
 
 ## Licentie
 
